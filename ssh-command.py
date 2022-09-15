@@ -2,6 +2,7 @@ import paramiko
 # Instrukcja TODO:
 # paramiko.ssh_exception.SSHException: pojawia się jeśli SSH wyłapie
 # zbyt dużą ilość niepoprawnych logowań
+# Tu dodana linia dla sprawdzenia Git'a.
 
 # Settings.
 targetIP = "192.168.100.49"
